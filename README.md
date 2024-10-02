@@ -1,6 +1,6 @@
 # GitHub Repo to Text Converter
 
-https://repo2txt.simplebasedomain.com/
+https://stephenturner.github.io/repo2txt/
 
 This web-based tool converts GitHub repository contents into a formatted text file for Large Language Model (LLM) prompts. It streamlines the process of transforming repository data into LLM-friendly input.
 
